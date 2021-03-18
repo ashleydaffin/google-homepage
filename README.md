@@ -1,2 +1,2 @@
 # google-homepage
-Odin project
+This project is based on the Odin Project's google homepage. Project used to hone foundational skills. 
